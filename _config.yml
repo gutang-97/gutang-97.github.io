@@ -21,7 +21,7 @@ name                     : &name "Gu Tang"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tg.jpg"
+  avatar           : "tg.png"
   name             : "Gu Tang"
   # pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, SJTU"
