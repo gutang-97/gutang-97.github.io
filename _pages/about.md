@@ -17,19 +17,18 @@ Recommender Systems, Multimodal Models, Large Language Models
 
 Publications
 ======
-* **"EditKG: Editing Knowledge Graph for Recommendation".**
+1. **"EditKG: Editing Knowledge Graph for Recommendation".**
+**Gu Tang**, Xiaoying Gan, Jinghe Wang, Bin Lu, Lyuwen Wu, Luoyi Fu, Chenghu Zhou. In ACM SIGIR. 2024
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gu Tang**, Xiaoying Gan, Jinghe Wang, Bin Lu, Lyuwen Wu, Luoyi Fu, Chenghu Zhou. In ACM SIGIR. 2024
 
-  
-* **"Dynamic global structure enhanced multi-channel graph neural network for session-based recommendation".**
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiaofei Zhu, **Gu Tang**, Pengfei Wang, Chenliang Li, Jiafeng Guo, Stefan Dietze. In Inf. Sci. 2023
+
+2. **"Dynamic global structure enhanced multi-channel graph neural network for session-based recommendation".**
+Xiaofei Zhu, **Gu Tang**, Pengfei Wang, Chenliang Li, Jiafeng Guo, Stefan Dietze. In Inf. Sci. 2023
   
 
-* **"Time enhanced graph neural networks for session-based recommendation".**
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Gu Tang**, Xiaofei Zhu, Jiafeng Guo, Stefan Dietze. In Knowl. Based Syst. 2022
+
+3. **"Time enhanced graph neural networks for session-based recommendation".**
+**Gu Tang**, Xiaofei Zhu, Jiafeng Guo, Stefan Dietze. In Knowl. Based Syst. 2022
   
   
 Honors
